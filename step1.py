@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# Max Base
+# https://github.com/BaseMax/PiProfHappyBirthDay
+
 import os 
 import sys
 import glob
