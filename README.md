@@ -21,4 +21,8 @@ ffmpeg -i output.mkv -vcodec libx264 -crf 32 output.mp4
 I not have adobe photoshop or photo editor software, so I use only a online editor And it's really good.
 https://www.photopea.com/
 
+### TODO
+
+Adding algorithms of other letter of alphabets. `[A-Z, a-z 0-9]`
+
 © Copyright Max Base 2021
